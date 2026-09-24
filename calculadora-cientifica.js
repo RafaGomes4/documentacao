@@ -1,6 +1,5 @@
 /**
  * Calculadora Científica
- * Atividade - Aula 5: Documentação de Código
  *
  * Grupo:
  * - Gabrielly Baungartner
